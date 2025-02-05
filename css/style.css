@@ -1239,6 +1239,7 @@ html {
 }
 
 body {
+    text-decoration: none;
     color: #ffffff;
     font-family: "OpenSans", "Helvetica", "Arial", sans-serif;
     font-kerning: auto;
